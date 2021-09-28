@@ -1,3 +1,0 @@
-centos-practices
-
-###
